@@ -28,7 +28,7 @@ A estrutura segue o formato por capítulos (ex.: `cap01`, `cap02`, ...), compat�
 
 Atualize conforme avançar:
 
-- [x] cap01 — (assuntos/exercícios concluídos) **01/01/2026**
+- [✅] cap01 — (assuntos/exercícios concluídos) **01/01/2026**
 - [ ] cap02 — (assuntos/exercícios concluídos)
 - [ ] cap03 — (assuntos/exercícios concluídos)
 - [ ] cap04 — (assuntos/exercícios concluídos)
