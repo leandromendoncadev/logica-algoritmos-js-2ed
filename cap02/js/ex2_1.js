@@ -6,5 +6,5 @@ const resp = document.querySelector("h3")
 frm.addEventListener("submit", (e) => {
     const nome = frm.inNome.value   // obtem o nome digitado no form
     resp.innerText = `Olá ${nome}`  // exibe a resposta do programa
-    e.preventDefault()              // evita o envio do form
+    e.preventDefault()              // evita o envio do form quando o usuário clica sobre o botão "submit" de um formulário
 })

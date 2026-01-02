@@ -14,5 +14,5 @@ frm.addEventListener("submit", (e) => {
     resp1.innerText = titulo                                     //exibe a resposta do campo "Título do Filme"
     resp2.innerText = `${horas} hora(s) e ${minutos} minuto(s)`  //exibe a resposta do campo "Duração (min)"
 
-    e.preventDefault()   // evita o envio do form quando o usuário clica sobre o botão submit de um formulário
+    e.preventDefault()   // evita o envio do form quando o usuário clica sobre o botão "submit" de um formulário
 }) 
