@@ -18,6 +18,5 @@ form.addEventListener ("submit", (e) =>{
 
 /*================** Exemplo 2 - com Operador Ternário**====================*/  
 
-   resp.innerText = resto === 0 ? `${numero} é Par` : `${numero} é Ímpar`
-    
+   resp.innerText = resto === 0 ? `${numero} é Par` : `${numero} é Ímpar`    
 })
