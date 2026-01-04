@@ -24,7 +24,7 @@ A estrutura segue o formato por capítulos (ex.: `cap01`, `cap02`, ...), compat�
 ## Progresso
 
 - Início dos estudos: **01/01/2026**
-- Status: **Dia 3** (em andamento)
+- Status: **Dia 4** (em andamento)
 
 Atualize conforme avançar:
 
