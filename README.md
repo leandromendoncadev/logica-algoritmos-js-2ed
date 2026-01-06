@@ -24,7 +24,7 @@ A estrutura segue o formato por capítulos (ex.: `cap01`, `cap02`, ...), compat�
 ## Progresso
 
 - Início dos estudos: **01/01/2026**
-- Status: **Dia 5** (em andamento)
+- Status: **Dia 6** (em andamento)
 
 Atualize conforme avançar:
 
@@ -32,7 +32,7 @@ Atualize conforme avançar:
 - [✅] cap02 — (assuntos/exercícios concluídos) **03/01/2026**
 - [✅] cap03 — (assuntos/exercícios concluídos) **03/01/2026**
 - [✅] cap04 — (assuntos/exercícios concluídos) **05/01/2026**
-- [ ] cap05 — (assuntos/exercícios concluídos)
+- [✅] cap05 — (assuntos/exercícios concluídos) **06/01/2026**
 - [ ] cap06 — (assuntos/exercícios concluídos)
 - [ ] cap07 — (assuntos/exercícios concluídos)
 - [ ] cap08 — (assuntos/exercícios concluídos)
